@@ -1,0 +1,14 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-hello-world"
+  site-url: "https://Peter-Hudson.github.io/nbdev-hello-world"
+  description: "Hello world with nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/Peter-Hudson/nbdev-hello-world"
+
+format-links:
+  - html
+  - format: commonmark
+    text: Markdown
